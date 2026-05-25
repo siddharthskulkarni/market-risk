@@ -134,10 +134,16 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# macOS / accidental root dumps
+.DS_Store
+**/.DS_Store
+SP500_hist_dret.csv
+
 # Environments
 .env
 .envrc
-.venv
+.nasdaq/
+.venv/
 env/
 venv/
 ENV/

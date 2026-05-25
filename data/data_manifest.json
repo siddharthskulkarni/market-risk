@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-05-25T13:24:35.180550",
+  "start_date": "2024-02-13",
+  "end_date": "2026-01-27",
+  "n_return_days": 375,
+  "n_assets": 20,
+  "assets": [
+    "A",
+    "ABBV",
+    "ABNB",
+    "ABT",
+    "ACN",
+    "ADBE",
+    "AES",
+    "AFL",
+    "AKAM",
+    "ALB",
+    "AMD",
+    "AOS",
+    "APD",
+    "ARE",
+    "GLD",
+    "MMM",
+    "SLV",
+    "1YR",
+    "5YR",
+    "10YR"
+  ]
+}
