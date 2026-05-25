@@ -1,6 +1,6 @@
 # market-risk
 
-Python library for **multi-asset market risk** (UMass): historical and parametric **VaR** / **ES**, **DCC-GARCH**, and backtests (Kupiec, Christoffersen, Basel traffic light) with rolling out-of-sample evaluation.
+Python library for **multi-asset market risk**: historical and parametric **VaR** / **ES**, **DCC-GARCH**, and backtests (Kupiec, Christoffersen, Basel traffic light) with rolling out-of-sample evaluation.
 
 **Installable package:** `market_risk` (v0.2.0)
 
