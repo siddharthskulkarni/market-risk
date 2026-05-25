@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T13:24:35.180550",
+  "generated_at": "2026-05-25T14:09:03.814160",
   "start_date": "2024-02-13",
   "end_date": "2026-01-27",
   "n_return_days": 375,
@@ -25,5 +25,15 @@
     "1YR",
     "5YR",
     "10YR"
-  ]
+  ],
+  "sources": {
+    "equities": "polygon_massive_adjusted",
+    "bonds": "polygon_treasury_fred_backup"
+  },
+  "files": {
+    "stocks": "data/portfolio_stocks_2yrs_hist_dret.csv",
+    "bonds": "data/portfolio_bonds_2yrs_hist_dret.csv",
+    "log_returns": "data/portfolio_log_returns_2y.csv",
+    "portfolio_log_returns": "data/portfolio_pf_log_returns_2y.csv"
+  }
 }
